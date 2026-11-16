@@ -18,6 +18,14 @@ This is a playable web prototype. Purchases and ads are placeholders: nothing is
 - **Guided tutorial:** seven steps that walk a new player through their first flip.
 - **Three career stages:** Bedroom Flipper, Campus Plug, Pop-Up Stall.
 
+## Screen sizes
+
+The layout adapts to the browser width:
+
+- **Phone (under 600px):** one column with tabs fixed at the bottom of the screen.
+- **Tablet (600–979px):** the same single column, a little wider.
+- **Desktop (980px and up):** a sidebar with your stats, the Hustle button and the tabs, next to a wide play area with the 3D shop and two-column content. On a keyboard, Space works as the Hustle button.
+
 ## Files
 
 | File | What it is |
@@ -98,7 +106,7 @@ Other placeholders:
 - Only three of the six planned career stages exist. Prestige ("Launch Your Own Label") isn't built.
 - No sound or music.
 - No notifications.
-- Tested in a desktop test browser at phone sizes, not on a range of real phones. Older phones may run the 3D shop slowly.
+- Tested in a desktop test browser at phone, tablet and laptop sizes, not on a range of real devices. Older phones may run the 3D shop slowly.
 
 ## Next steps for the web version
 
